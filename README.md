@@ -1,4 +1,7 @@
-# Motion-Estimate
+# Khuthon 2022 Project
+<br/>
+
+## Motion-Estimate
 
 ```mediapipe```라이브러리 사용한 모션 인식
 
@@ -33,5 +36,9 @@ python main.py
 #### PUSH UP
 - 팔꿈치 각도를 이용하여 연산
 
-#### SIDE LEGRAISES
-- 다리 각도 연산
+
+## Contributors
+- 경희대학교 컴퓨터공학과 정병석
+- 경희대학교 컴퓨터공학과 최원석
+- 경희대학교 컴퓨터공학과 황세훈
+- 경희대학교 컴퓨터공학과 길지운
